@@ -1,0 +1,12 @@
+{"sample_id":"a-0","account_id":"synthetic-a","transcript":"这是合成测试文稿零，用于演示低档样本，不代表真实账号。","views":200,"likes":10,"comments":1,"shares":0,"account_baseline_views":2000}
+{"sample_id":"a-1","account_id":"synthetic-a","transcript":"这是合成测试文稿一，用于演示低档样本，不代表真实账号。","views":400,"likes":20,"comments":2,"shares":1,"account_baseline_views":2000}
+{"sample_id":"a-2","account_id":"synthetic-a","transcript":"这是合成测试文稿二，用于演示中档样本，不代表真实账号。","views":1000,"likes":50,"comments":5,"shares":3,"account_baseline_views":2000}
+{"sample_id":"a-3","account_id":"synthetic-a","transcript":"这是合成测试文稿三，用于演示中档样本，不代表真实账号。","views":2000,"likes":100,"comments":10,"shares":6,"account_baseline_views":2000}
+{"sample_id":"a-4","account_id":"synthetic-a","transcript":"这是合成测试文稿四，用于演示高档样本，不代表真实账号。","views":5000,"likes":250,"comments":25,"shares":16,"account_baseline_views":2000}
+{"sample_id":"a-5","account_id":"synthetic-a","transcript":"这是合成测试文稿五，用于演示高档样本，不代表真实账号。","views":9000,"likes":450,"comments":45,"shares":30,"account_baseline_views":2000}
+{"sample_id":"b-0","account_id":"synthetic-b","transcript":"第二组合成文稿零，只用于测试数据隔离和评估流程。","views":300,"likes":15,"comments":1,"shares":1,"account_baseline_views":3000}
+{"sample_id":"b-1","account_id":"synthetic-b","transcript":"第二组合成文稿一，只用于测试数据隔离和评估流程。","views":600,"likes":30,"comments":3,"shares":2,"account_baseline_views":3000}
+{"sample_id":"b-2","account_id":"synthetic-b","transcript":"第二组合成文稿二，只用于测试数据隔离和评估流程。","views":1600,"likes":80,"comments":8,"shares":5,"account_baseline_views":3000}
+{"sample_id":"b-3","account_id":"synthetic-b","transcript":"第二组合成文稿三，只用于测试数据隔离和评估流程。","views":3000,"likes":150,"comments":15,"shares":10,"account_baseline_views":3000}
+{"sample_id":"b-4","account_id":"synthetic-b","transcript":"第二组合成文稿四，只用于测试数据隔离和评估流程。","views":7500,"likes":375,"comments":37,"shares":25,"account_baseline_views":3000}
+{"sample_id":"b-5","account_id":"synthetic-b","transcript":"第二组合成文稿五，只用于测试数据隔离和评估流程。","views":12000,"likes":600,"comments":60,"shares":40,"account_baseline_views":3000}
